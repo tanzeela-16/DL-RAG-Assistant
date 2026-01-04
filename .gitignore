@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+vectordb/
+*.faiss
+course_materials/*.pdf
+outputs/
+*.log
+.DS_Store
+.vscode/
